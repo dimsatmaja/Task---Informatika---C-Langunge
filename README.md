@@ -103,7 +103,10 @@ Agar coding C lebih nyaman:
 2. Pastikan berada di folder project (`E:\tugas dimas\tugas-informatika`).
 3. Jalankan perintah berikut untuk compile:
    ```bash
-   gcc switch-case.c -o program.exe
+  gcc src/switch-case.c -o program.exe
+  gcc src/if-condition.c -o program.exe
+  gcc src/for-condition.c -o program.exe
+
    ```
    👉 Ini akan menghasilkan file `program.exe`.
 
